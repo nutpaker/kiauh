@@ -29,7 +29,7 @@ After git is installed, use the following commands in the given order to downloa
 ```shell
 cd ~
 
-git clone https://github.com/nutpaker/kiauth.git
+git clone https://github.com/nutpaker/kiauh.git
 
 ./kiauh/kiauh.sh
 ```
